@@ -6,3 +6,4 @@ def print_items2(list):
 
 a = [2, 4, 6, 8, 10]
 print_items2(a)
+#add comment
